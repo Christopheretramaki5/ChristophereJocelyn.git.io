@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+nav, .tabulaire{
+    position: absolute;
+    position: fixed;
+    background: rgba(252, 250, 250, 0.379);
+    width: 100vw;
+    height: 3rem;
+    z-index: 1000;
+}
+.Petit-menu{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 1rem;
+}
+.Petit-menu h2{
+    display: none;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+.nav-menu li{
+    background: rgba(10, 10, 147, 0.075);
+    padding: 5px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+.nav-menu li:hover{
+    background: #1976d2;
+    padding: 5px;
+    padding-right: 10px;
+    color: white;
+}
+.nav-menu a{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.nav-menu a:hover{
+    color: white;
+    font-weight: bold;
+    
+}
+.nav-menu img, .icon-menu img{
+    height: 20px;
+    width: 20px;
+    margin-bottom: -0.2rem;
+    margin-right: 0.3rem;
+}
+.leaflet-container{
+    height: 90vh;
+    position: relative;
+}
+.leaflet-control-zoom{
+    top: 3rem;
+    border: 2px solid #1976d2 !important;
+    z-index: 2000;
+    position: absolute;
+}
+.leaflet-control-zoom-out, .leaflet-control-zoom-in{
+    color: #1976d2 !important;
+}
+.Position-actuel{
+    margin-top: 35rem;
+    position: absolute;
+    z-index: 1000;
+    margin-left: .4rem;
+    height: 50px;
+    width: 50px !important;
+    background-color: white;
+    border: 2px solid #1976d2;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.Position-actuel:hover{
+    background: #1976d2;
+}
+.Position-actuel .icon-position{
+    font-size: 3rem;
+    color: #1976d2;
+}
+.Position-actuel .icon-position:hover{
+    color: white;
+}
+.icons-bar{
+    height: 25px;
+    width: 30px;
+}
+/* .Layer-menu{
+    margin-top: 28rem;
+    position: absolute;
+    z-index: 1000;
+} */

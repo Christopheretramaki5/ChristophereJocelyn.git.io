@@ -1,0 +1,687 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.1 084b4234",
+    "osm3s": {
+      "timestamp_osm_base": "2024-06-10T12:15:01Z",
+      "timestamp_areas_base": "2024-06-10T06:50:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1298652228,
+        "lat": -21.4458362,
+        "lon": 47.0883019,
+        "tags": {
+          "amenity": "school",
+          "name": "Collège Saint Joseph de Cluny",
+          "school:MG": "collège"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1298725824,
+        "lat": -21.4554676,
+        "lon": 47.0844164,
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "addr:street": "Araben'ny Fahaleovantena",
+          "amenity": "school",
+          "name": "CEG Rakotozafy Alphonse",
+          "school:MG": "collège",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1298725838,
+        "lat": -21.4531706,
+        "lon": 47.0838265,
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "school",
+          "name": "Le P'tit Génie",
+          "note": "primaire",
+          "operator:type": "private",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1298750463,
+        "lat": -21.4520554,
+        "lon": 47.0893359,
+        "tags": {
+          "amenity": "school",
+          "name": "Collège Français René Cassin",
+          "school:MG": "collège",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1298750489,
+        "lat": -21.456133,
+        "lon": 47.0862051,
+        "tags": {
+          "amenity": "school",
+          "name": "EPP Plateau",
+          "note": "primaire",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1300055039,
+        "lat": -21.4486391,
+        "lon": 47.0850825,
+        "tags": {
+          "amenity": "school",
+          "name": "Collège Saint François Xavier",
+          "school:MG": "collège",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1300072621,
+        "lat": -21.4412728,
+        "lon": 47.0925486,
+        "tags": {
+          "amenity": "school",
+          "name": "Lycée Rozelina",
+          "note": "lycée",
+          "operator": "FJKM",
+          "school:MG": "lycée"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1300926289,
+        "lat": -21.4524737,
+        "lon": 47.0943018,
+        "tags": {
+          "amenity": "school",
+          "name": "Laureat School",
+          "note": "primaire",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1302314413,
+        "lat": -21.4618142,
+        "lon": 47.0773029,
+        "tags": {
+          "amenity": "school",
+          "name": "EPP Rova",
+          "note": "primaire",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1302314424,
+        "lat": -21.4594657,
+        "lon": 47.0775947,
+        "tags": {
+          "amenity": "school",
+          "name": "Lycée Randzavola-Ivohidahy",
+          "note": "lycée",
+          "school:MG": "lycée"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1302314448,
+        "lat": -21.458496,
+        "lon": 47.076824,
+        "tags": {
+          "amenity": "school",
+          "name": "Collège Saint Pierre Clavier",
+          "school:MG": "collège"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1302471519,
+        "lat": -21.4364019,
+        "lon": 47.1026239,
+        "tags": {
+          "amenity": "school",
+          "name": "La Colombe",
+          "note": "primaire",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1302471630,
+        "lat": -21.4379241,
+        "lon": 47.0935665,
+        "tags": {
+          "amenity": "school",
+          "name": "Collège Fanavaozana Manolotsoa",
+          "school:MG": "collège"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3675388470,
+        "lat": -21.4342264,
+        "lon": 47.0951065,
+        "tags": {
+          "amenity": "school",
+          "name": "CEG Joel Rakotomalala",
+          "school:MG": "collège"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3688293881,
+        "lat": -21.457762,
+        "lon": 47.0847715,
+        "tags": {
+          "amenity": "school",
+          "name": "EPP Tsianolondroa",
+          "note": "primaire",
+          "school:MG": "primaire",
+          "source": "Bing"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3689722158,
+        "lat": -21.4542256,
+        "lon": 47.0794009,
+        "tags": {
+          "amenity": "school",
+          "name": "Lycée Liantsoa School",
+          "note": "lycée",
+          "school:MG": "lycée"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3689722159,
+        "lat": -21.447108,
+        "lon": 47.089021,
+        "tags": {
+          "amenity": "school",
+          "name": "Le Petit Poucet",
+          "note": "primaire",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3689756060,
+        "lat": -21.4587798,
+        "lon": 47.0955076,
+        "tags": {
+          "amenity": "school",
+          "name": "EPP Tanambao",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3689756061,
+        "lat": -21.4569321,
+        "lon": 47.0767585,
+        "tags": {
+          "amenity": "school",
+          "name": "Collège Saint Joseph Ambozontany",
+          "note": "lycée",
+          "school:MG": "lycée",
+          "source": "Bing"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3689756063,
+        "lat": -21.4579369,
+        "lon": 47.0776757,
+        "tags": {
+          "amenity": "school",
+          "name": "Lycée Masombahoaka",
+          "note": "lycée",
+          "school:MG": "lycée",
+          "source": "Bing"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3700732632,
+        "lat": -21.4313394,
+        "lon": 47.1173306,
+        "tags": {
+          "amenity": "school",
+          "name": "Trois Boules",
+          "note": "lycée",
+          "school:MG": "lycée",
+          "source": "Bing"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3718872743,
+        "lat": -21.4653046,
+        "lon": 47.1082442,
+        "tags": {
+          "amenity": "school",
+          "name": "Victoire Rasoamanarivo",
+          "note": "primaire",
+          "school:MG": "primaire",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3891866472,
+        "lat": -21.4523938,
+        "lon": 47.1068444,
+        "tags": {
+          "amenity": "school",
+          "name": "Collège Privé La Source Soanierana",
+          "school:MG": "collège"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3975290467,
+        "lat": -21.4157335,
+        "lon": 47.1167316,
+        "tags": {
+          "amenity": "school",
+          "name": "Lycée Jean Ralaimongo",
+          "note": "lycée",
+          "school:MG": "lycée"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4000660856,
+        "lat": -21.4672454,
+        "lon": 47.0886987,
+        "tags": {
+          "amenity": "school",
+          "name": "EPP Ambatovory",
+          "note": "primaire",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4000661157,
+        "lat": -21.4679625,
+        "lon": 47.0878304,
+        "tags": {
+          "amenity": "school",
+          "name": "CEG Ambatovory",
+          "school:MG": "collège"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4012534154,
+        "lat": -21.4570836,
+        "lon": 47.0843865,
+        "tags": {
+          "amenity": "school",
+          "name": "EPP Centre I",
+          "note": "primaire",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4269533499,
+        "lat": -21.441741,
+        "lon": 47.0943272,
+        "tags": {
+          "amenity": "school",
+          "name": "EPP Antarandolo",
+          "note": "primaire",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4587815190,
+        "lat": -21.4835518,
+        "lon": 47.0602528,
+        "tags": {
+          "amenity": "school",
+          "name": "CEG Mahazengy",
+          "school:MG": "collège"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4587825189,
+        "lat": -21.4842503,
+        "lon": 47.0614137,
+        "tags": {
+          "amenity": "school",
+          "name": "Centre Régional de l'institut National de Formation Pédagogique",
+          "short_name": "CRINFP Mahazengy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4986054122,
+        "lat": -21.4517135,
+        "lon": 47.0909948,
+        "tags": {
+          "amenity": "school",
+          "name:fr": "FLI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4986070321,
+        "lat": -21.4380754,
+        "lon": 47.1018559,
+        "tags": {
+          "amenity": "school",
+          "name": "LP Copec Talatamaty"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4986237522,
+        "lat": -21.4400922,
+        "lon": 47.0996841,
+        "tags": {
+          "amenity": "school",
+          "name:fr": "INSPNMAD"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7036698417,
+        "lat": -21.4558794,
+        "lon": 47.0926176,
+        "tags": {
+          "amenity": "school",
+          "name": "Saint Joseph Ouvrier",
+          "school:MG": "collège",
+          "source": "Bing"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7103879215,
+        "lat": -21.4289146,
+        "lon": 47.100189,
+        "tags": {
+          "amenity": "university",
+          "description": "Description de l'université",
+          "name": "Institut Supérieur des Sciences et Techniques",
+          "operator": "Université de Fianarantsoa",
+          "operator:type": "public",
+          "short_name": "ISST",
+          "website": "https://univ-fianar.mg"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7153086435,
+        "lat": -21.4907466,
+        "lon": 47.1119955,
+        "tags": {
+          "amenity": "school",
+          "name": "Ecole Primaire Publique Abodikavola",
+          "school:MG": "primaire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10837189559,
+        "lat": -21.4564287,
+        "lon": 47.0862463,
+        "tags": {
+          "amenity": "school",
+          "name": "ABC Private School"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11001864402,
+        "lat": -21.4433327,
+        "lon": 47.1196061,
+        "tags": {
+          "amenity": "school",
+          "name": "École Padre Pio",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11010147929,
+        "lat": -21.45881,
+        "lon": 47.1042044,
+        "tags": {
+          "amenity": "school",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11010203810,
+        "lat": -21.4447907,
+        "lon": 47.0888072,
+        "tags": {
+          "amenity": "university",
+          "name": "IFP",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11010237238,
+        "lat": -21.4703276,
+        "lon": 47.1060763,
+        "tags": {
+          "amenity": "school",
+          "name": "École privée catholique Antsahamalaza",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11013630481,
+        "lat": -21.4543492,
+        "lon": 47.0784826,
+        "tags": {
+          "amenity": "school",
+          "name": "École La Colline",
+          "operator:type": "private",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11016523317,
+        "lat": -21.4372158,
+        "lon": 47.1141264,
+        "tags": {
+          "amenity": "university",
+          "description": "Université Brine (Beravina, Andrainjato Avaratra, Haute Matsiatra) est située à proximité de l'église FJKM Beravina Fahasoavana et du bureau du gouvernement Fokontany Beravina Ambalanosy.",
+          "name": "Université Brine"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11025986065,
+        "lat": -21.4670288,
+        "lon": 47.060194,
+        "tags": {
+          "amenity": "school",
+          "name": "École Saint Thérèse Ankazobe",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11047883627,
+        "lat": -21.4354784,
+        "lon": 47.1036244,
+        "tags": {
+          "amenity": "school",
+          "name": "Etablissement RALAIVAO"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11051483157,
+        "lat": -21.4559532,
+        "lon": 47.1078233,
+        "tags": {
+          "amenity": "university",
+          "name": "Institut Supérieure de Management et de Technologie",
+          "operator:type": "private",
+          "short_name": "ISMT",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11079008454,
+        "lat": -21.4449302,
+        "lon": 47.0893505,
+        "tags": {
+          "amenity": "school",
+          "name": "Ecole Chinoise",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11080790614,
+        "lat": -21.4363594,
+        "lon": 47.1031036,
+        "tags": {
+          "amenity": "school",
+          "name": "École Privé La Colombe",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11081347590,
+        "lat": -21.450545,
+        "lon": 47.0889188,
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "university",
+          "email": "greentreeuniversity75@gmail.com",
+          "mobile": "+261 38 71 562 97",
+          "name": "Green Tree University",
+          "phone": "+261 34 68 124 15"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11104572107,
+        "lat": -21.4392845,
+        "lon": 47.0978883,
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "school",
+          "name": "Collège Privé Edena",
+          "operator:type": "private",
+          "school:MG": "collège",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11104587856,
+        "lat": -21.4426635,
+        "lon": 47.0958002,
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "school",
+          "name": "Collège privé Manolotsoa",
+          "operator:type": "private",
+          "school:MG": "collège"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11113601975,
+        "lat": -21.4584313,
+        "lon": 47.0897083,
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "school",
+          "name": "Ecole Sainte Marie Eugene de jesus"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11183069275,
+        "lat": -21.4554109,
+        "lon": 47.0809474,
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "school",
+          "name": "École Le Calin"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11853950269,
+        "lat": -21.4366593,
+        "lon": 47.1144712,
+        "tags": {
+          "addr": "LTP Beravina Fianarantsoa",
+          "amenity": "university",
+          "contact": "034 48 503 44",
+          "name": "INPF"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11899157468,
+        "lat": -21.4586392,
+        "lon": 47.088616,
+        "tags": {
+          "amenity": "university",
+          "description": "INSPNMAD (Ampitakely, Tanana Ambony, Haute Matsiatra) est une université. INSPNMAD est située à proximité de l'église Fiangonan'i Jesoa Kristy eto Madagasikara Fehizoro Mampiray et FLM Ampitakely.",
+          "name": "INSPNMAD",
+          "source": "MadAtlas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11920080543,
+        "lat": -21.4282447,
+        "lon": 47.1071904,
+        "tags": {
+          "amenity": "school",
+          "name": "Confidence",
+          "operator:type": "private",
+          "school:MG": "lycée"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11920080544,
+        "lat": -21.4290629,
+        "lon": 47.1071866,
+        "tags": {
+          "amenity": "school"
+        }
+      }
+    ]
+  }
